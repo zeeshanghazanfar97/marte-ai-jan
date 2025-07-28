@@ -60,7 +60,7 @@
     "run-script-os": "^1.1.6",
     "tar": "^4.4.19",
     "unzipper": "^0.12.3",
-    "wait-on": "^7.0.1"
+    "wait-on": "^8.0.4"
   },
   "version": "0.0.0",
   "installConfig": {

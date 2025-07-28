@@ -8206,14 +8206,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^1.6.1":
-  version: 1.7.9
-  resolution: "axios@npm:1.7.9"
+"axios@npm:^1.11.0":
+  version: 1.11.0
+  resolution: "axios@npm:1.11.0"
   dependencies:
     follow-redirects: "npm:^1.15.6"
-    form-data: "npm:^4.0.0"
+    form-data: "npm:^4.0.4"
     proxy-from-env: "npm:^1.1.0"
-  checksum: 10c0/b7a41e24b59fee5f0f26c1fc844b45b17442832eb3a0fb42dd4f1430eb4abc571fe168e67913e8a1d91c993232bd1d1ab03e20e4d1fee8c6147649b576fc1b0b
+  checksum: 10c0/5de273d33d43058610e4d252f0963cc4f10714da0bfe872e8ef2cbc23c2c999acc300fd357b6bce0fc84a2ca9bd45740fa6bb28199ce2c1266c8b1a393f2b36e
   languageName: node
   linkType: hard
 
@@ -11380,6 +11380,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"form-data@npm:^4.0.4":
+  version: 4.0.4
+  resolution: "form-data@npm:4.0.4"
+  dependencies:
+    asynckit: "npm:^0.4.0"
+    combined-stream: "npm:^1.0.8"
+    es-set-tostringtag: "npm:^2.1.0"
+    hasown: "npm:^2.0.2"
+    mime-types: "npm:^2.1.12"
+  checksum: 10c0/373525a9a034b9d57073e55eab79e501a714ffac02e7a9b01be1c820780652b16e4101819785e1e18f8d98f0aee866cc654d660a435c378e16a72f2e7cac9695
+  languageName: node
+  linkType: hard
+
 "form-data@npm:~2.3.2":
   version: 2.3.3
   resolution: "form-data@npm:2.3.3"
@@ -13437,7 +13450,7 @@ __metadata:
     run-script-os: "npm:^1.1.6"
     tar: "npm:^4.4.19"
     unzipper: "npm:^0.12.3"
-    wait-on: "npm:^7.0.1"
+    wait-on: "npm:^8.0.4"
   languageName: unknown
   linkType: soft
 
@@ -14107,7 +14120,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"joi@npm:^17.11.0":
+"joi@npm:^17.13.3":
   version: 17.13.3
   resolution: "joi@npm:17.13.3"
   dependencies:
@@ -18637,7 +18650,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^7.8.1":
+"rxjs@npm:^7.8.1, rxjs@npm:^7.8.2":
   version: 7.8.2
   resolution: "rxjs@npm:7.8.2"
   dependencies:
@@ -21138,18 +21151,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wait-on@npm:^7.0.1":
-  version: 7.2.0
-  resolution: "wait-on@npm:7.2.0"
+"wait-on@npm:^8.0.4":
+  version: 8.0.4
+  resolution: "wait-on@npm:8.0.4"
   dependencies:
-    axios: "npm:^1.6.1"
-    joi: "npm:^17.11.0"
+    axios: "npm:^1.11.0"
+    joi: "npm:^17.13.3"
     lodash: "npm:^4.17.21"
     minimist: "npm:^1.2.8"
-    rxjs: "npm:^7.8.1"
+    rxjs: "npm:^7.8.2"
   bin:
     wait-on: bin/wait-on
-  checksum: 10c0/1eff2189b3e4b0975889f3e480c75ca2a0d4275072779a6329e7cae8b729620594aa044509ddd89967de6ab2162169501b67b8d9562c16cac517837ffce17337
+  checksum: 10c0/e77d843a03efc12699c965c34338fe0b95c9e80d1e39d946dc172e11a2b9613688b48b61135b269390025a255204a4e3e2ff8e5774f99f0069d149b4b48fd02d
   languageName: node
   linkType: hard
 
